@@ -5,6 +5,7 @@ const App = () => {
 
   return (
     <div id="main">
+      <h1>reddit clone</h1>
     </div>
   )
 }
